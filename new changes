@@ -1,0 +1,7 @@
+class ChangesTest
+{
+public void m1()
+{
+System.out.println("changes successfully done");
+}
+}
